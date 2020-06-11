@@ -1,0 +1,1 @@
+mainHeadingId.classList.add("green-text");//Zuweisung einer CSS-Klasse auf ein HTML-Tag
